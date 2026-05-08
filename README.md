@@ -21,9 +21,9 @@ MirrorBlade was developed for the **Aydın Game Jam**, where it was awarded **1s
 - **Dash:** Left Shift (Quick burst of movement, consumes mana).
 
 ## Screenshots
-| Gameplay Action | Combat Mechanics |
+| Gameplay Action 1 | GamePlay Action 2 |
 | :---: | :---: |
-| ![MirrorBlade Gameplay 1]() | ![MirrorBlade Gameplay 2]() |
+| ![MirrorBlade Gameplay 1](Assets/Sprites/ss1.png) | ![MirrorBlade Gameplay 2](Assets/Sprites/ss2.png) |
 
 ## Achievements
 - **1st Place Winner** at Aydın Game Jam.

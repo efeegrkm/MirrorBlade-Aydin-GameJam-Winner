@@ -20,5 +20,10 @@ MirrorBlade was developed for the **Aydın Game Jam**, where it was awarded **1s
 - **Attack:** Space Bar (Melee strike and projectile parry).
 - **Dash:** Left Shift (Quick burst of movement, consumes mana).
 
+## Screenshots
+| Gameplay Action | Combat Mechanics |
+| :---: | :---: |
+| ![MirrorBlade Gameplay 1]() | ![MirrorBlade Gameplay 2]() |
+
 ## Achievements
 - **1st Place Winner** at Aydın Game Jam.

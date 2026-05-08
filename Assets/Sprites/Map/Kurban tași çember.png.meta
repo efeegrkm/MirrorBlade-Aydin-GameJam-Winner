@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: c86a6fdaa866cb247a9b33479212e072
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1259906158579138803
+    second: "Kurban ta\u0219i \xE7ember_0"
+  - first:
+      213: -8387203165866121640
+    second: "Kurban ta\u0219i \xE7ember_1"
+  - first:
+      213: 5023822938438302996
+    second: "Kurban ta\u0219i \xE7ember_2"
+  - first:
+      213: 7660177485018001451
+    second: "Kurban ta\u0219i \xE7ember_3"
+  - first:
+      213: 6663504737100602092
+    second: "Kurban ta\u0219i \xE7ember_4"
+  - first:
+      213: 2431674734423208659
+    second: "Kurban ta\u0219i \xE7ember_5"
+  - first:
+      213: 5553061977316289512
+    second: "Kurban ta\u0219i \xE7ember_6"
+  - first:
+      213: -5550398537909773968
+    second: "Kurban ta\u0219i \xE7ember_7"
+  - first:
+      213: 4126960872255614626
+    second: "Kurban ta\u0219i \xE7ember_8"
+  - first:
+      213: 5318289331771929697
+    second: "Kurban ta\u0219i \xE7ember_9"
+  - first:
+      213: 3261829155420740210
+    second: "Kurban ta\u0219i \xE7ember_10"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Kurban ta\u0219i \xE7ember_0"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 2283
+        height: 2283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0cf68d9f51c7110800000000000000
+      internalID: 1259906158579138803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurban ta\u0219i \xE7ember_1"
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 2292
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856a48f682baa9b80800000000000000
+      internalID: -8387203165866121640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurban ta\u0219i \xE7ember_2"
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 2295
+        width: 23
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41df21c585438b540800000000000000
+      internalID: 5023822938438302996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurban ta\u0219i \xE7ember_3"
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 2287
+        width: 55
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2071f656da6e4a60800000000000000
+      internalID: 7660177485018001451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurban ta\u0219i \xE7ember_4"
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 2285
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea930ee046897c50800000000000000
+      internalID: 6663504737100602092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurban ta\u0219i \xE7ember_5"
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1650
+        width: 41
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d27692994b0fb120800000000000000
+      internalID: 2431674734423208659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurban ta\u0219i \xE7ember_6"
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 1595
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb6aad6270701d40800000000000000
+      internalID: 5553061977316289512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurban ta\u0219i \xE7ember_7"
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 1523
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0795a02efe509f2b0800000000000000
+      internalID: -5550398537909773968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurban ta\u0219i \xE7ember_8"
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 584
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae6bb83c09e54930800000000000000
+      internalID: 4126960872255614626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurban ta\u0219i \xE7ember_9"
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164f30148fb5ec940800000000000000
+      internalID: 5318289331771929697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kurban ta\u0219i \xE7ember_10"
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 0
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a9ddeb558544d20800000000000000
+      internalID: 3261829155420740210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Kurban ta\u0219i \xE7ember_0": 1259906158579138803
+      "Kurban ta\u0219i \xE7ember_1": -8387203165866121640
+      "Kurban ta\u0219i \xE7ember_10": 3261829155420740210
+      "Kurban ta\u0219i \xE7ember_2": 5023822938438302996
+      "Kurban ta\u0219i \xE7ember_3": 7660177485018001451
+      "Kurban ta\u0219i \xE7ember_4": 6663504737100602092
+      "Kurban ta\u0219i \xE7ember_5": 2431674734423208659
+      "Kurban ta\u0219i \xE7ember_6": 5553061977316289512
+      "Kurban ta\u0219i \xE7ember_7": -5550398537909773968
+      "Kurban ta\u0219i \xE7ember_8": 4126960872255614626
+      "Kurban ta\u0219i \xE7ember_9": 5318289331771929697
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

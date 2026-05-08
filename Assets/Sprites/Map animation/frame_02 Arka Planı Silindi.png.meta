@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 834ec04a52b4b884190b878cb1f3c5db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2529212947475465750
+    second: "frame_02 Arka Plan\u0131 Silindi_0"
+  - first:
+      213: 853419798350326922
+    second: "frame_02 Arka Plan\u0131 Silindi_1"
+  - first:
+      213: -5762532138899798476
+    second: "frame_02 Arka Plan\u0131 Silindi_2"
+  - first:
+      213: 5250921671317944256
+    second: "frame_02 Arka Plan\u0131 Silindi_3"
+  - first:
+      213: 7303750006133752066
+    second: "frame_02 Arka Plan\u0131 Silindi_4"
+  - first:
+      213: 1830046428919844751
+    second: "frame_02 Arka Plan\u0131 Silindi_5"
+  - first:
+      213: -6674408610990699085
+    second: "frame_02 Arka Plan\u0131 Silindi_6"
+  - first:
+      213: -8644014665623894282
+    second: "frame_02 Arka Plan\u0131 Silindi_7"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "frame_02 Arka Plan\u0131 Silindi_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 589
+        width: 1153
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9f760893e66ecd0800000000000000
+      internalID: -2529212947475465750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "frame_02 Arka Plan\u0131 Silindi_1"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 808
+        width: 990
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ce4f4f8c4f7db00800000000000000
+      internalID: 853419798350326922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "frame_02 Arka Plan\u0131 Silindi_2"
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 890
+        width: 226
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4360b160d8f5700b0800000000000000
+      internalID: -5762532138899798476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "frame_02 Arka Plan\u0131 Silindi_3"
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 553
+        width: 1138
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c77e4280750fd840800000000000000
+      internalID: 5250921671317944256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "frame_02 Arka Plan\u0131 Silindi_4"
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 811
+        width: 971
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2010cd30fe12c5560800000000000000
+      internalID: 7303750006133752066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "frame_02 Arka Plan\u0131 Silindi_5"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 1218
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f4d36f781a56910800000000000000
+      internalID: 1830046428919844751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "frame_02 Arka Plan\u0131 Silindi_6"
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 0
+        width: 471
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd47181bbcbf53a0800000000000000
+      internalID: -6674408610990699085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "frame_02 Arka Plan\u0131 Silindi_7"
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 226
+        width: 1183
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f68836a57a4a0880800000000000000
+      internalID: -8644014665623894282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "frame_02 Arka Plan\u0131 Silindi_0": -2529212947475465750
+      "frame_02 Arka Plan\u0131 Silindi_1": 853419798350326922
+      "frame_02 Arka Plan\u0131 Silindi_2": -5762532138899798476
+      "frame_02 Arka Plan\u0131 Silindi_3": 5250921671317944256
+      "frame_02 Arka Plan\u0131 Silindi_4": 7303750006133752066
+      "frame_02 Arka Plan\u0131 Silindi_5": 1830046428919844751
+      "frame_02 Arka Plan\u0131 Silindi_6": -6674408610990699085
+      "frame_02 Arka Plan\u0131 Silindi_7": -8644014665623894282
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
